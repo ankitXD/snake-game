@@ -1,0 +1,11 @@
+HTML --> layout
+css -->  
+
+js -->
+setting up the board
+values ->snake,directon,score,food
+function to draw the snake and food
+updation of food snake and food
+reset --> collison
+directon change
+Win->strategy
